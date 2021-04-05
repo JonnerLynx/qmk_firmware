@@ -23,11 +23,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #include "config_common.h"
 
 /* USB Device descriptor parameter */
-#define VENDOR_ID       0x3297
-#define DEVICE_VER      0x0001
-#define MANUFACTURER    ZSA Technology Labs
-#define PRODUCT_ID      0x4974
-#define PRODUCT         ErgoDox EZ
+#define VENDOR_ID       0x0000
+#define DEVICE_VER      0x0000
+#define MANUFACTURER    Jonner Steck
+#define PRODUCT_ID      0x0000
+#define PRODUCT         ErgoDox
 
 /* key matrix size */
 #define MATRIX_ROWS 14
